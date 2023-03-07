@@ -1,0 +1,6 @@
+{
+    "name": "my book app - prod",
+    "mailserver": {
+        "host": "prod-mailserver.company"
+    }
+}

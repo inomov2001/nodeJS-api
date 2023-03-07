@@ -1,0 +1,1 @@
+Bu yerda hechnma yo'q!

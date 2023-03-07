@@ -1,0 +1,6 @@
+{
+    "name": "my book app",
+    "mailserver": {
+        "host": "dev-mailserver.company"
+    }
+}
